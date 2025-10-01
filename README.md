@@ -1,2 +1,2 @@
-# fusion_photo_films
+# photo_films
 Landing page with the backend
